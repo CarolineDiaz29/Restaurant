@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    //Activity 1
+    <string name="tvTitulo">Sushi Carolita</string>
+    <string name="tvNIT">Nit: 102.386.104 - 9</string>
+    <string name="btnOrdenar">ORDENAR</string>
+    //Activity 2
+    <string name="tvFactura"></string>
+    <string name="txtNombre">Cliente</string>
+    <string name="tvfecha"></string>
+    <string name="tvTitulo1">Entradas</string>
+    <string name="tvTitulo2">Platos Fuertes</string>
+    <string name="tvTitulo3">Bebidas</string>
+    <string name="tvTitulo4">Postre</string>
+    <string name="btnFacturacion">Ordenar</string>
+    <string name="btnVolver4">Volver</string>
+    //Entrada
+    <string name="textView6">Edaname</string>
+    <string name="textView7">$7.000</string>
+    <string name="textView8">Gyaza</string>
+    <string name="textView9">$6.000</string>
+    <string name="textView10">Sping Rolls</string>
+    <string name="textView11">$7.000</string>
+    <string name="textView12">Croquetas de Salmón</string>
+    <string name="textView13">$8.000</string>
+    <string name="textView14">Sopa de Miso</string>
+    <string name="textView15">$6.000</string>
+    //Plato Fuerte
+    <string name="textView16">Smoked Salmon</string>
+    <string name="textView17">$40000</string>
+    <string name="textView18">Maki Roll</string>
+    <string name="textView19">$40.000</string>
+    <string name="textView20">Rollos Clasicos</string>
+    <string name="textView21">$40.000</string>
+    <string name="textView22">Veggie Sushi</string>
+    <string name="textView23">$40.000</string>
+    <string name="textView24">Peanut Avocado</string>
+    <string name="textView25">$40.000</string>
+    //Bebidas
+    <string name="textView26">Agua</string>
+    <string name="textView27">$3.000</string>
+    <string name="textView28">Gaseosa</string>
+    <string name="textView29">$5.000</string>
+    <string name="textView30">Limonada de Coco</string>
+    <string name="textView31">$6.000</string>
+    <string name="textView32">Limonada de Cereza</string>
+    <string name="textView33">$6.000</string>
+    <string name="textView34">Jugo Natural</string>
+    <string name="textView35">$6.000</string>
+    //Postres
+    <string name="textView36">Tiramisu</string>
+    <string name="textView37">$8.000</string>
+    <string name="textView38">Macarons</string>
+    <string name="textView39">$12.000</string>
+    <string name="textView40">Lulada</string>
+    <string name="textView41">$8.000</string>
+    <string name="textView42">Postre de Cafe</string>
+    <string name="textView43">$7.000</string>
+    <string name="textView44">Milhoja</string>
+    <string name="textView45">$9.000</string>
+    //Activity 3
+    <string name="tvTitulo7">Sushi Carolita</string>
+    <string name="tvNIT8">Nit: 102.386.104 - 9</string>
+    <string name="btnVolver">Volver</string>
+    <string name="tvidFact">Factura</string>
+    <string name="tvCliente">0</string>
+    <string name="tvfechaF"></string>
+    <string name="txtPedido"></string>
+    <string name="tvtToatal">Total: </string>
+    <string name="tvTotal"></string>
+    <string name="btnEliminar">Eliminar Producto</string>
+    <string name="btnModificar">Modificar</string>
+</resources>
